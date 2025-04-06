@@ -19,13 +19,10 @@ I'm passionate about developing meaningful software solutions, diving deep into 
   Migrated services with Java, optimized integration systems, and enhanced security practices.
 
 - **Software Engineering Intern** @ JOMOO Co. Ltd  
-  Achieved 5× memory efficiency and 30% faster distribution analytics via advanced `pandas` and `polars`.
+  Achieved 5× memory efficiency and 30% faster distribution analytics via advanced `pandas` and `SQLite`.
 
 - **Data Analyst Extern** @ Mobalytics  
   Delivered market research presentations using Excel, Tableau, and SQL to recommend expansion strategies.
-
-- **Equity Data Research Intern** @ Shandong Zhongming  
-  Developed score-keeping and compliance analytics tools; collaborated directly with VPs.
 
 ---
 
@@ -63,6 +60,7 @@ Operating Systems | Computer Systems Organization | Database Management | Algori
 ### ⚡ Fun Facts
 
 - 🧠 Fluent in 3 languages: English, Mandarin, Taiwanese Hokkien
+- 💼 E-Board of NYU Zen Club
 - 🎮 Huge fan of MOBA games, bodybuilding. bench/squat/lifting -> 225lbs/335lbs/295lbs
 - 🍜 Enjoys cooking, boxing, anime
 
