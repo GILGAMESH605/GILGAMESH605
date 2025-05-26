@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Eason Huang
 
-🎓 **B.S. @ NYU** | 📍 New York, NY  
+🎓 **B.A. @ NYU** | 📍 New York, NY  
 💻 Growing to be a **Full Stack Developer** | 📊 Passionate about **Software Engineering** and **Data Analytics**
 
 ---
